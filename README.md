@@ -15,6 +15,8 @@ to replace the \`wal\` command with \`walrs\`. Designed for users who
 prefer simplicity and speed. Report issues or bugs on GitHub. Full
 
 ## Install
+A package is available on the AUR.
+
 ### For general purpose users:
 ```
 $ git clone https://github.com/jsbarkleygriggs/walrs.git
